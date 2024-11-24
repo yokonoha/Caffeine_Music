@@ -1,0 +1,26 @@
+{
+  "name": "Caffeine Music",
+  "short_name": "Caffeine Music",
+  "start_url": "/Caffeine_Music",
+  "display": "fullscreen",
+  "background_color": "#EFFFDF",
+  "theme_color": "#EFFFDF",
+  "icons": [{
+    "src": "./ic.png",
+    "sizes": "144x144",
+    "type":"img/png",
+    "purpose": "any"
+  },
+    {
+    "src": "./ic.webp",
+    "sizes": "144x144",
+    "purpose": "any"
+  },
+  {
+    "src": "./ic2.png",
+    "sizes": "512x512",
+    "type":"img/png",
+    "purpose": "any"
+  }]
+
+    }
