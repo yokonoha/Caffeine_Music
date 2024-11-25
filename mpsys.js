@@ -308,11 +308,11 @@ function initsys()
         });
         navigator.mediaSession.setActionHandler('previoustrack', () => {
             currentIndex = (currentIndex - 1 + playlist.length) % playlist.length;
-            loadAudioFile(playlist[currentIndex]);
+            loadAudio(playlist[currentIndex]);
         });
         navigator.mediaSession.setActionHandler('nexttrack', () => {
             currentIndex = (currentIndex + 1) % playlist.length;
-            loadAudioFile(playlist[currentIndex]);
+            loadAudio(playlist[currentIndex]);
         });
     }
 }
