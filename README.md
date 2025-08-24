@@ -5,7 +5,7 @@ JavaScriptが正しく実行できる環境であれば動作します。
 PWAアプリケーションにも対応しています。インストールすることでオフラインでも動作します。  
 Linuxを使うときに「丁寧な日本語」対応の音楽プレーヤーにあまり出会わなかったので(英語だらけだったので)、Linuxで使える「分かりやすいちゃんとした日本語表現」で書かれたモダンな音楽プレーヤーが欲しい! と思ったので製作しました! WebベースなのでOS関係なく動作します!!  
 日本語版はこちらです。(JP)
-https://yokochayokoha.github.io/Caffeine_Music  
+https://yokonoha.github.io/Caffeine_Music  
 
 EN: Web-based offline music player created by utilizing Caffeine_CSS!  
 Works as long as JavaScript can be properly executed.  
@@ -16,7 +16,7 @@ Motive(Not so important)↓
 When I was using Linux, I didn't come across many music players with "polite Japanese" support (because they are based on English and sometimes there are translation errors), so I wanted a modern music player written in "clear and correct Japanese expressions" that I could use on Linux! So I decided to make it! It is web-based, so it works regardless of OS!  
 </small>
 Of course, those who are native English speakers can use this! I made an English version!(But I may make some translation mistakes...)  
-English Version is here(EN) https://yokochayokoha.github.io/Caffeine_Music/en  
+English Version is here(EN) https://yokonoha.github.io/Caffeine_Music/en  
 
 ![Screenshot-Playing](image-1.png)  
 
@@ -75,3 +75,4 @@ jsmediatags(BSD License)
     THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ![title](image.png)
+
